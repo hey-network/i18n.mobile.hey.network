@@ -38,4 +38,8 @@ export default {
   Username: 'Username',
   WhatDoYouWantToDo: 'What do you want to do?',
   Yes: 'Yes',
+  Update_title: 'Restart Hey',
+  Update_UpdateMessage: 'We\'ve made a few improvements. 🎉 Restart the app to complete the update.',
+  Update_InstallButtonLabel: 'Restart',
+  Update_IgnoreButtonLabel: 'Cancel',
 };

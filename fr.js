@@ -38,4 +38,8 @@ export default {
   Username: "Nom d'utilisateur",
   WhatDoYouWantToDo: 'Que voulez-vous faire?',
   Yes: 'Oui',
+  Update_title: 'Relancer Hey',
+  Update_UpdateMessage: 'Il y a du nouveau! 🎉 Relancez l\'application pour terminer la mise à jour.',
+  Update_InstallButtonLabel: 'Relancer',
+  Update_IgnoreButtonLabel: 'Annuler',
 };
