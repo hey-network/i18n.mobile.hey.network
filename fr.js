@@ -35,6 +35,7 @@ export default {
   Subscriptions: 'Abonnements',
   tagname: 'tagname',
   TermsOfService: "Conditions d'utilisation",
+  ReportBug: "Signaler un bug 🐞",
   Username: "Nom d'utilisateur",
   WhatDoYouWantToDo: 'Que voulez-vous faire?',
   Yes: 'Oui',
