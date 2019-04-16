@@ -30,7 +30,7 @@ export default {
   Password: 'Password',
   ReferralCode: 'Referral code',
   Save: 'Save',
-  Search: 'Search',
+  Search: 'Search a #hashtag',
   Settings: 'Settings',
   Subscriptions: 'Subscriptions',
   tagname: 'tagname',
