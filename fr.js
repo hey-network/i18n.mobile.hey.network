@@ -22,7 +22,7 @@ export default {
   Form_EmailAddress: "Adresse Email",
   Form_Username: "Pseudo",
   Form_Password: "Mot de Passe",
-  Form_Password: "Code d'invitation (facultatif)",
+  Form_InvitationCode: "Code d'invitation (facultatif)",
   Form_ForgotPassword: "Oublié",
   Cancel: "Annuler",
   DirectMessages: "Conversations",
