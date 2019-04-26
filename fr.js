@@ -37,7 +37,8 @@ export default {
   Save: "Enregistrer",
   Search: "Chercher un #hashtag",
   Settings: "Paramètres",
-  Subscriptions: "Subscriptions",
+  NavSubscriptions: "Subscriptions",
+  Nav_Notifications: "Notifications",
   ReportBug: "Signaler un Bug 🐞",
   WhatDoYouWantToDo: "Que voulez-vous faire?",
   Yes: "Oui"
