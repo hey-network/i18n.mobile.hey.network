@@ -36,6 +36,7 @@ export default {
   No: "No",
   Save: "Save",
   Search: "Search a #hashtag",
+  SearchCreate: "Search or create a #hashtag",
   Settings: "Settings",
   Nav_Subscriptions: "Subscriptions",
   Nav_Notifications: "Notifications",
