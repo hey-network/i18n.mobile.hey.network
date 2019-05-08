@@ -24,7 +24,6 @@ export default {
   Form_Password: "Password",
   Form_InvitationCode: "Invitation Code (optional)",
   Form_ForgotPassword: "Forgot",
-  Notifications_message_like: "%{username} liked your message.",
   Notifications: {
     entry: {
       like: "%{username} liked your post.",
