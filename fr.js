@@ -27,7 +27,8 @@ export default {
   Notifications: {
     entry: {
       like: "%{username} a aimé votre post.",
-      reply: "%{username} a répondu à votre post."
+      reply: "%{username} a répondu à votre post.",
+      answer: "%{username} a répondu à votre post."
     },
     message: {
       like: "%{username} a aimé votre message."
@@ -37,7 +38,7 @@ export default {
       reply: "%{username} a répondu à votre message."
     },
     user: {
-      follow:  "%{username} a commencé à vous suivre."
+      follow: "%{username} a commencé à vous suivre."
     }
   },
   Cancel: "Annuler",

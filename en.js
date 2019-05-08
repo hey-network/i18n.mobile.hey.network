@@ -27,7 +27,8 @@ export default {
   Notifications: {
     entry: {
       like: "%{username} liked your post.",
-      reply: "%{username} replied to your post."
+      reply: "%{username} replied to your post.",
+      answer: "%{username} replied to your post."
     },
     message: {
       like: "%{username} liked your message."
